@@ -1,0 +1,130 @@
+{
+    "shapes": [
+        {
+            "type": "shapes2d.Disk",
+            "radius": 1.0,
+            "fillColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.Disk",
+            "radius": 2.0,
+            "fillColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.Disk",
+            "radius": 3.0,
+            "fillColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.SquareRect",
+            "size": 5.0,
+            "fillColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.Rect",
+            "size": {
+                "x": 5.0,
+                "y": 10.0
+            },
+            "fillColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.SquareRect",
+            "size": 5.0,
+            "fillColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            }
+        },
+        {
+            "type": "shapes2d.Triangle",
+            "p1": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "p2": {
+                "x": 15.0,
+                "y": 0.0
+            },
+            "p3": {
+                "x": 0.0,
+                "y": 15.0
+            },
+            "fillColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "borderColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        }
+    ]
+}
